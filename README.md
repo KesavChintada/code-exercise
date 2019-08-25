@@ -4,7 +4,8 @@
 Print Multiplication table of the first 'N' prime numbers where 'N' is the +ve integer. The first Row and first Column of the table should have the first 'N' primes, each Cell in the table contains the cross product of the corresponding primes of the row and the column. 
 
 The Below table is the programe print output of the first 10 primes, where first cell in the table contains 'X', represents the multiplication symbol.
->   X   2   3   5   7  11  13  17  19  23  29
+
+   X   2   3   5   7  11  13  17  19  23  29
    2   4   6  10  14  22  26  34  38  46  58
    3   6   9  15  21  33  39  51  57  69  87
    5  10  15  25  35  55  65  85  95 115 145
