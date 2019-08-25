@@ -5,7 +5,7 @@ Print Multiplication table of the first 'N' prime numbers where 'N' is the +ve i
 
 The Below table is the programe print output of the first 10 primes, where first cell in the table contains 'X', represents the multiplication symbol.
 
-   ![](screencaptures/prime-mltplcn-table.GIF)
+   ![Multiplication Table of first 10 primes](screencaptures/prime-mltplcn-table.GIF)
 
  **Solution Description:**
  - Developed the Java 8 based project/program using eclipse and maven 3.6. This project has 2 classes. 
@@ -35,7 +35,7 @@ The Below table is the programe print output of the first 10 primes, where first
   'What is the Number of Primes you want in the Multiplication Table ?',  
   enter the +ve integer (ex: 10), the programe execute and print the table like the below 
     
-   ![](screencaptures/prime-mltplcn-table.GIF)
+   ![Multiplication Table of first 10 primes](screencaptures/prime-mltplcn-table.GIF)
 
 -**Import the project into Eclipse and Build the project in your local:**
 >Make sure you set the MAVEN_HOME and the JAVA8_HOME to the environment PATH and then go to the project directory where pom.xml is present, execute the below commands 
