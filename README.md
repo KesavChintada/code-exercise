@@ -5,17 +5,7 @@ Print Multiplication table of the first 'N' prime numbers where 'N' is the +ve i
 
 The Below table is the programe print output of the first 10 primes, where first cell in the table contains 'X', represents the multiplication symbol.
 
-   X   2   3   5   7  11  13  17  19  23  29
-   2   4   6  10  14  22  26  34  38  46  58
-   3   6   9  15  21  33  39  51  57  69  87
-   5  10  15  25  35  55  65  85  95 115 145
-   7  14  21  35  49  77  91 119 133 161 203
-  11  22  33  55  77 121 143 187 209 253 319
-  13  26  39  65  91 143 169 221 247 299 377
-  17  34  51  85 119 187 221 289 323 391 493
-  19  38  57  95 133 209 247 323 361 437 551
-  23  46  69 115 161 253 299 391 437 529 667
-  29  58  87 145 203 319 377 493 551 667 841
+   ![screencaptures](prime-mltplcn-table.gif)
 
  **Solution Description:**
  - Developed the Java 8 based project/program using eclipse and maven 3.6. This project has 2 classes. 
@@ -42,17 +32,8 @@ The Below table is the programe print output of the first 10 primes, where first
  - **Usage**: Make sure you have set Java 8 environment in the path and execute the below command in the command prompt. This is an executable Jar, so you don't need to specify the Main class while executing the command as the Jar has the manifest of the main class.
  > C:\${yourdirectory}> java -jar ${pathoftheJar}/code-exercise-1.0-SNAPSHOT.jar
   this will prompt 'What is the Number of Primes you want in the Multiplication Table ?',  enter the +ve integer (ex: 10), the programe execute and print the table like the below 
-     X   2   3   5   7  11  13  17  19  23  29
-   2   4   6  10  14  22  26  34  38  46  58
-   3   6   9  15  21  33  39  51  57  69  87
-   5  10  15  25  35  55  65  85  95 115 145
-   7  14  21  35  49  77  91 119 133 161 203
-  11  22  33  55  77 121 143 187 209 253 319
-  13  26  39  65  91 143 169 221 247 299 377
-  17  34  51  85 119 187 221 289 323 391 493
-  19  38  57  95 133 209 247 323 361 437 551
-  23  46  69 115 161 253 299 391 437 529 667
-  29  58  87 145 203 319 377 493 551 667 841
+    
+	![screencaptures](prime-mltplcn-table.gif)
 
 -** Import the project into Eclipse and Build the project in your local: **
 >Make sure you set the MAVEN_HOME and JAVA8_HOME to the environment PATH and then go to the project directory where pom.xml is present, execute the below commands 
